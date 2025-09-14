@@ -8,19 +8,19 @@ My works.
 * simple calculator
 
 # Lab 3 task6
-**This sentence is bold** \n
-*This sentence is italic* \n
-~~This is to be stikrthrough~~\n
+**This sentence is bold** 
+*This sentence is italic* 
+~~This is to be stikrthrough~~
 
 # Code bolck
-#include <stdio.h> \n
-int main() \n
+#include <stdio.h> 
+int main() 
 {
-int a, b; \n
-printf("first number:") \n
-scanf("%d, %d", a, b); \n
-printf("number:%d",a); \n
-return 0; \n
+int a, b; 
+\n printf("first number:")
+\n scanf("%d, %d", a, b); 
+\n printf("number:%d",a); 
+\n return 0; 
 }\n
 
 
