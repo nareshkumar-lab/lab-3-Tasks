@@ -8,24 +8,24 @@ My works.
 * simple calculator
 
 # Lab 3 task6
-**This sentence is bold** 
-*This sentence is italic* 
-~~This is to be stikrthrough~~
+**This sentence is bold** <br>
+*This sentence is italic* <br>
+~~This is to be stikrthrough~~<br>
 
 # Code bolck
 #include <stdio.h> 
 int main() 
 {
-int a, b; 
-\n printf("first number:")
-\n scanf("%d, %d", a, b); 
-\n printf("number:%d",a); 
-\n return 0; 
-}\n
+int a, b; <br>
+ printf("first number:")<br>
+ scanf("%d, %d", a, b); <br>
+ printf("number:%d",a); <br>
+ return 0; <br>
+}
 
 
 # Work to do
--submit assigment.\n
--Math problem solving\n
--PST reading\n
+-submit assigment.<br>
+-Math problem solving<br>
+-PST reading<br>
 
